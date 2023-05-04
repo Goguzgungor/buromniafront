@@ -1,6 +1,6 @@
 import './App.css';
 
-function App() {s
+function App() {
   return (
     <div className="App">
       <div className='app-container'>
